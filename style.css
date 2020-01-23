@@ -1,0 +1,171 @@
+* {
+  text-align: center;
+}
+
+* .textBox {
+  background-image: url(/pencil.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  padding: 10rem 0 10rem 0;
+}
+
+* .More {
+  margin: 15px;
+  padding: 20px 45px;
+  border-radius: 7px;
+  border-style: none;
+  background-color: #1d809f;
+  color: white;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+* .More:hover {
+  background-color: #156179;
+  -webkit-transition: ease;
+  transition: ease;
+}
+
+* #Sytlish h3 {
+  font-weight: 700;
+}
+
+* #Sytlish p {
+  font-size: 2em;
+  font-weight: 900;
+}
+
+* #Sytlish .textBox h3 {
+  font-size: 5em;
+}
+
+* #Sytlish .Portfolio {
+  padding: 10rem 0 10rem 0;
+}
+
+* #Sytlish .Portfolio h5 {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+* #Sytlish .Portfolio .More {
+  background-color: #343a40;
+}
+
+* #Sytlish .Portfolio .More:hover {
+  background-color: #292a2b;
+}
+
+* #Services {
+  background-color: #1D809F;
+  padding: 10rem 0 8rem 0;
+}
+
+* #Services h5 {
+  color: #ecb807;
+  font-weight: 700;
+}
+
+* #Services h1 {
+  color: white;
+  font-weight: 700;
+}
+
+* #Services .iconSection i {
+  background-color: white;
+  padding: 50px;
+  border-radius: 50%;
+  font-size: 2rem;
+  color: #1D809F;
+}
+
+* #Services .iconSection p {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+* #Services .iconSection span {
+  color: #e9e7e7;
+}
+
+* #welcom h3 {
+  font-size: 4em;
+  font-weight: 700;
+}
+
+* #welcom .textBox {
+  background-image: url(/scissors.jpg);
+}
+
+* #Projects .contentSection {
+  padding: 6rem 0 4rem 0;
+}
+
+* #Projects .contentSection h5 {
+  color: #ecb807;
+  font-weight: 700;
+}
+
+* #Projects .contentSection h3 {
+  font-size: 3em;
+  font-weight: 700;
+}
+
+* .ProjectPortfolio .projectAll {
+  position: relative;
+}
+
+* .ProjectPortfolio .projectText {
+  width: 100%;
+  position: absolute;
+  color: white;
+  top: 9em;
+  left: 30px;
+  padding: 0 5em;
+}
+
+* #resist {
+  padding: 5em;
+}
+
+* #resist .More.bat {
+  background-color: #292a2b;
+  color: white;
+}
+
+* #resist .More.tab {
+  background-color: #e9e7e7;
+  color: #292a2b;
+}
+
+* .Map {
+  height: 500px;
+  pointer-events: none;
+  bottom: 10em;
+}
+
+* .IconMedia {
+  font-size: 1em;
+  padding: 4em;
+}
+
+* .IconMedia i {
+  margin-right: 15px;
+  background-color: #1D809F;
+  color: white;
+  border-radius: 50%;
+  padding: 25px;
+}
+
+* .IconMedia i:first-child {
+  padding: 25px 30px;
+}
+
+* .IconMedia p {
+  opacity: .8;
+  color: #292a2b;
+}
+/*# sourceMappingURL=style.css.map */
